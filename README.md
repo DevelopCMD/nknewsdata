@@ -5,3 +5,4 @@ Benefits of nknewsdata:
 - ANST: Fully animated news slideshows
 - KerSocial (in progress): Chat with other users
 - anfv1: The predecessor to ANST, no longer used
+- nikernOS News: News displayed on nikernOS UI
